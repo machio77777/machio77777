@@ -1,6 +1,6 @@
-### Hi, I am Shintarou Tanaka 👋
+## Hi, I am Shintarou Tanaka 👋
 
-**webSite** 😄
+### webSite 😄
 
 https://machio77777.github.io/curriculum-vitae/
 
