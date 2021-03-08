@@ -2,7 +2,7 @@
 
 ### webSite 😄
 
-https://machio77777.github.io/curriculum-vitae/
+https://tana-labo.tokyo/
 
 <!--
 **machio77777/machio77777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
