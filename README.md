@@ -1,6 +1,22 @@
-## Hi, I am Shintarou Tanaka 👋
+## TLDR
 
-### webSite 😄
+Project Manager + Project Leader in Japan.
+
+## Skills
+
+- Project Management
+- Team building
+- JavaScript, GatsbyJS, PHP, Java
+
+## Career
+
+- Asia Quest（2019-now） Project Manager
+- Health Media（2019-2019） System Engineer
+- MapleSystems（2016-2019） Software Engineer
+- IntWorks（2014-2015） Software Engineer
+- Minori Solutions（2009-2014） System Engineer
+
+## Resume 
 
 https://machio77777.github.io/curriculum-vitae/
 
