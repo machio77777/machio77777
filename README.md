@@ -16,10 +16,6 @@ Project Manager + Project Leader in Japan.
 - IntWorks（2014-2015） Software Engineer
 - Minori Solutions（2009-2014） System Engineer
 
-## Resume 
-
-https://machio77777.github.io/curriculum-vitae/
-
 <!--
 **machio77777/machio77777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
